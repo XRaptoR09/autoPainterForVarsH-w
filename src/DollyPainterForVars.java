@@ -41,6 +41,12 @@ public class DollyPainterForVars extends Frame{		//Розширяє або на�
 		rightEyeX = (((headX + headDiameter) - eyesPadding) - eyesDiameter),
 		eyesY = (headY+(headDiameter / 3));
 
+		//! Carriage
+		//*Declarating variables
+
+
+		//*Countable variables
+		
 
 	public void paint(Graphics g) {
 		if (bottomX < 0) {
