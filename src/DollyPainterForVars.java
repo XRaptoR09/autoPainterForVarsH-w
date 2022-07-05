@@ -4,9 +4,9 @@ public class DollyPainterForVars extends Frame{		//Розширяє або на�
 //			 subclass			 superclass
 	public static void main(String[] args) {
 		DollyPainterForVars autoFirst = new DollyPainterForVars("MyFirstAuto");
-		autoFirst.setSize(500, 600);
+		autoFirst.setSize(500, 700);
 		autoFirst.setVisible(true);
-		
+	
 	}
 	DollyPainterForVars(String title){
 		super(title);
